@@ -13,6 +13,7 @@ import org.slf4j.LoggerFactory;
  * <p>This program tests all the functionality of a GameStrategy Game, where there are different Character types (e.g. Barbarian, Gobling, King or Paladin) which can use several types of Weapon (e.g. Crossbow, Knife, Sword), where a weapon can have distinct WeaponBehaviour. </p> 
  *
  */
+ 
 public class GameTest {
 	private Character character;
 	final Logger logger = LoggerFactory.getLogger(GameTest.class);

@@ -15,6 +15,7 @@ public class Barbarian extends Character {
 		super(w);
 	}
 	
+	
 	@Override
 	public void display() {
 	// TODO Auto-generated method stub
